@@ -5,14 +5,14 @@
 ### Turning messy data into something that actually matters.
 
 MSc Applied Data Science @ SRH Heidelberg · ex-CS Engineer · based in Germany 🇩🇪  
-Currently open to **Werkstudent & Junior Data Scientist roles**
+Open to **Werkstudent, Data Analyst, and Junior Data Scientist opportunities across Germany** 🟢
 
 ---
 
 ### 🧩 What I Do
 
 I build things end-to-end — from raw data ingestion to dashboards that tell a story.  
-My work sits at the intersection of **ML engineering**, **data pipelines**, and **business intelligence**.
+My work sits at the intersection of **machine learning, predictive analytics, data engineering, and business intelligence**.
 
 - 🔬 Machine learning models that go beyond accuracy metrics
 - ☁️ Cloud pipelines on **GCP** (Pub/Sub, BigQuery, Looker)
@@ -29,6 +29,9 @@ My work sits at the intersection of **ML engineering**, **data pipelines**, and 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -44,10 +47,8 @@ My work sits at the intersection of **ML engineering**, **data pipelines**, and 
 | [Autonomous Compliance Sentinel](https://github.com/shrey-shetty/Autonomous-Compliance-Sentinel) | AI-powered regulatory monitoring & anomaly detection system | Python, NLP |
 | [NVIDIA Strategic Intelligence](https://github.com/shrey-shetty/nvidia-strategic-intelligence) | Competitive intelligence analysis using real-world financial & market data | Python, Analytics |
 | [Energy Pipeline](https://github.com/shrey-shetty/energy-pipeline) | End-to-end data pipeline for energy sector analytics | Python, GCP |
-| Fuel Price Analytics *(repo coming soon)* | Real-time GCP pipeline: Pub/Sub → BigQuery → Looker | GCP, BigQuery |
-| AI Content Generator *(repo coming soon)* | AI-powered content generation system | Python, LLMs |
+| Fuel Price Analytics *(repo coming soon)* | Real-time GCP pipeline: Pub/Sub → BigQuery → Looker | GCP, BigQuery, Looker |
 | Malware Detection *(repo coming soon)* | Bachelor's thesis — ML-based malware classification | Python, ML |
-| Dairy Supply Chain Dashboard *(repo coming soon)* | End-to-end supply chain visibility dashboard | Tableau |
 
 ---
 
